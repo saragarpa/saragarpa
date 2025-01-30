@@ -19,7 +19,7 @@ ___
   
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
 
-- **Tools:** Figma, Adobe Suite, Visual Studio Code, GitHub, Vite, Postman, Notion, Codepen, 
+- **Tools:** Figma, Adobe Suite, Visual Studio Code, GitHub, Vite, Postman, Notion, Codepen
   
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,github,vite,postman,notion,codepen,&theme=light)](https://skillicons.dev)
 
